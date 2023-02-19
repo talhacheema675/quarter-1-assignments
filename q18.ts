@@ -1,0 +1,16 @@
+var arr=["pak","aus","usa","canada","turkey"];
+var asort=arr;
+console.log(arr);
+asort.sort();
+console.log(asort);
+asort.reverse();
+console.log(asort);
+console.log(arr);
+arr.reverse();
+console.log(arr);
+arr.reverse();
+console.log(arr);
+arr.sort();
+console.log(arr);
+arr.reverse();
+console.log(arr);
