@@ -1,4 +1,4 @@
 "use strict";
-var a = "27";
-var b = "5";
-console.log("my fav number: " + a + " the one i dislike: " + b);
+let str_1 = 27;
+let str_2 = 5;
+console.log("my fav number: " + str_1 + " the one i dislike: " + str_2);

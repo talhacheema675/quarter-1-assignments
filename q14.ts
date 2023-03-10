@@ -1,5 +1,5 @@
-var guest=["ali","hamza","tanveer","adil"];
-for(var i=0;i<guest.length;i++)
+let guuest:string[]=["ali","hamza","tanveer","adil"];
+for(let i=0;i<guuest.length;i++)
 {
-console.log(guest[i]+", i would like to invite you on my party ");
+console.log(guuest[i]+", i would like to invite you on my party ");
 }

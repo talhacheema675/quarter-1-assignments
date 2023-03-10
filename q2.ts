@@ -1,4 +1,4 @@
-var a="Talha";
-console.log("title case: "+a);
-console.log("upper case: "+a.toUpperCase());
-console.log("lower case :"+a.toLowerCase());
+let nam="Talha";
+console.log("title case: "+nam);
+console.log("upper case: "+nam.toUpperCase());
+console.log("lower case :"+nam.toLowerCase());

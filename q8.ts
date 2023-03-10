@@ -1,3 +1,3 @@
-var a="27"; //like
-var b="5"; //dislike
-console.log("my fav number: "+a+" the one i dislike: "+b);
+let aaa="27"; //like
+let bbb="5"; //dislike
+console.log("my fav number: "+aaa+" the one i dislike: "+bbb);

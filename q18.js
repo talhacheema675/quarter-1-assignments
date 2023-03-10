@@ -1,6 +1,6 @@
 "use strict";
-var arr = ["pak", "aus", "usa", "canada", "turkey"];
-var asort = arr;
+let arr = ["pak", "aus", "usa", "canada", "turkey"];
+let asort = arr;
 console.log(arr);
 asort.sort();
 console.log(asort);

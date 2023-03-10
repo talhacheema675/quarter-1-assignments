@@ -1,2 +1,2 @@
-var friends=["talha","hassan","zain","saeed","arslan"];
-console.log(friends);
+let friiends:string[]=["talha","hassan","zain","saeed","arslan"];
+console.log(friiends);
