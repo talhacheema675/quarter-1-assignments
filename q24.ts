@@ -1,6 +1,6 @@
 let str:string="adil";
 let str2:string="talha";
-let num1:Number=5;
+let num1:number=5;
 let arr1:string[]=["talha","adil","hamza","ali"];
 if(str==str2)
 {
@@ -16,7 +16,7 @@ if(str.toLowerCase()==str2.toLowerCase())
 else{
     console.log("string not match");
 }
-if(num1>=0&&num1<=10)
+if(num1>=0 && num1<=10)
 {
     console.log("number is in range");
 }
